@@ -7,4 +7,4 @@ It uses the [python-twitter](https://github.com/bear/python-twitter) Python API.
 
 I have a cronjob that runs igasona.py every 30 minutes. So far it has run for about a year without any problems, except you cannot tweet "d" or "D", because they're commands for a direct message.
 
-The words were scraped using [this](http://www.eki.ee/dict/xp/index.cgi?dictid=eos) and a wildcard. I apologise to whomever hosts that.
+The words were scraped using [this](http://www.eki.ee/dict/xp/index.cgi?dictid=eos) and a wildcard. I apologise to whomever hosts that. In retrospect, I should've got them from http://www.eki.ee/tarkvara/wordlist/.
