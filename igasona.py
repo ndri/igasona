@@ -11,7 +11,7 @@ api = twitter.Api(consumer_key="put",
 with open("arv") as f:
     arv = int(f.read())
 
-with open("sonad") as f:
+with open("igasona") as f:
     sonad = f.read().decode("utf-8").splitlines()
     sona = sonad[arv]
 
